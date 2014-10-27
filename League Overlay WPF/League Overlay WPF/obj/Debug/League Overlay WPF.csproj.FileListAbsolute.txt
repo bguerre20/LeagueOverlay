@@ -1,0 +1,13 @@
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\bin\Debug\League Overlay WPF.exe.config
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\bin\Debug\League Overlay WPF.exe
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\bin\Debug\League Overlay WPF.pdb
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\League Overlay WPF.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\MainWindow.baml
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\App.g.cs
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\League Overlay WPF_MarkupCompile.cache
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\League Overlay WPF.g.resources
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\League_Overlay_WPF.Properties.Resources.resources
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\League Overlay WPF.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\League Overlay WPF.exe
+C:\Users\Bryan\Desktop\League Overlay WPF\League Overlay WPF\obj\Debug\League Overlay WPF.pdb
